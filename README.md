@@ -32,6 +32,7 @@ I’m a 2nd-year Computer Science student specializing in Software Engineering a
 - [ ] Expand and showcase projects in my **portfolio**.
 - [ ] Participate in **hackathons** to improve teamwork and thrive under pressure.
 - [ ] Grow into a **full-stack engineer** by expanding beyond frontend.
+- [ ] Upskill through targeted courses and industry-recognized certifications.
 - [ ] Secure an internship to gain real-world experience.
 
 ---
