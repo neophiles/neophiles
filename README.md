@@ -1,14 +1,16 @@
 # Marc Neil Tagle
 
-#### Frontend Engineer | CS Student | Hackathon Enthusiast
+#### Frontend Developer | CS Student
 
-I’m a 2nd-year Computer Science student specializing in Software Engineering at Manuel S. Enverga University Foundation Lucena. I’m passionate about building intuitive, scalable web applications, currently focusing on frontend development with frameworks like React and Next.js to create clean, user-friendly interfaces.
+I’m a second-year Computer Science student specializing in Software Engineering at Manuel S. Enverga University Foundation Lucena. I enjoy building intuitive web applications and currently focus on frontend development with React, while exploring tools like Next.js to expand my skill set.
+
+Check out my **live portfolio** [here](https://neiltagle.vercel.app/)!
 
 ---
 
 ### Current Focus & Tech Stack
 
-| **Core Foundations** | **Frontend Engineering** | **Styling & UI** |
+| **Core Foundations** | **Frontend Development** | **Styling & UI** |
 |:---:|:---:|:---:|
 | Python, Java, C++ | React.js, Next.js, TypeScript | Tailwind CSS, Chakra UI |
 
