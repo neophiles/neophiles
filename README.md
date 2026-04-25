@@ -1,48 +1,44 @@
 # Marc Neil Tagle
 
-## Frontend Developer | CS Student
+## Full-Stack Developer | CS Student
 
-I’m a second-year Computer Science student specializing in Software Engineering at **Manuel S. Enverga University Foundation Lucena**. I enjoy building intuitive web applications and currently focus on frontend development with React, while exploring tools like Next.js to expand my skill set.
+I’m a second-year Computer Science student specializing in Software Engineering at **Manuel S. Enverga University Foundation Lucena**. I enjoy building intuitive web applications, currently focusing on backend development with Express.js.
 
 Check out my **live portfolio** [here](https://neiltagle.vercel.app/)!
 
 ## Tech Stack
 
-#### Programming Languages
+### Programming Languages
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+[![Programming Languages](https://skillicons.dev/icons?i=py,java,cpp,js,ts,dart)](https://skillicons.dev)
 
-#### Frontend
+### Frontend
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![ChakraUI](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+[![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,react,vite,flutter)](https://skillicons.dev)
 
-#### Backend
+### Backend
 
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,prisma,postman)](https://skillicons.dev)
 
-#### Database
+### Database
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+[![Database](https://skillicons.dev/icons?i=sqlite,mysql,postgresql,supabase)](https://skillicons.dev)
 
-#### Testing
+### Development
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+[![Development](https://skillicons.dev/icons?i=vscode,git,github,vercel)](https://skillicons.dev)
+
+## Principles
+
+- **RCSR Architecture**: Decoupling APIs into route, controller, service, and repository layers for scalability.
+
+- **Git Standards**: Strictly adhering to conventional commits.
+
+- **Clean Code**: Following DRY and SOLID principles.
 
 ## Goals
-- [ ] Launch a full-stack application using **Next.js**.
-- [ ] Expand and showcase projects in my **[portfolio](https://neiltagle.vercel.app/)**.
-- [ ] Participate in **hackathons** to improve teamwork and thrive under pressure.
-- [ ] Grow into a **full-stack engineer** by expanding beyond frontend.
+- [x] Build a portfolio to showcase my projects.
+- [x] Participate in **hackathons** to improve teamwork and thrive under pressure.
+- [ ] Launch a full-stack web application.
 - [ ] Upskill through targeted courses and industry-recognized certifications.
-- [ ] Secure an internship to gain real-world experience.
+- [ ] Secure internships to gain real-world experience.
