@@ -10,7 +10,7 @@ Check out my **live portfolio** [here](https://neiltagle.vercel.app/)!
 
 ### Programming Languages
 
-[![Programming Languages](https://skillicons.dev/icons?i=py,java,cpp,js,ts,dart)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=py,java,cpp,js,ts,dart,cs)](https://skillicons.dev)
 
 ### Frontend
 
@@ -18,7 +18,7 @@ Check out my **live portfolio** [here](https://neiltagle.vercel.app/)!
 
 ### Backend
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,prisma,postman)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,prisma,postman,dotnet)](https://skillicons.dev)
 
 ### Database
 
