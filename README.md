@@ -1,8 +1,8 @@
 # Marc Neil Tagle
 
-## Full-Stack Developer | CS Student
+## Data Science student. Full-stack developer.
 
-I’m a second-year Computer Science student specializing in Software Engineering at **Manuel S. Enverga University Foundation Lucena**. I enjoy building intuitive web applications, currently focusing on backend development with Express.js.
+3rd-year CS student specializing in Data Science. I build full-stack web apps in my spare time because I enjoy the chaos of self-learning and burying myself in tech stack hell. Currently obsessed with Express.js, clean architecture, and optimizing database schemas until it’s borderline neurotic. Always looking for the next problem to solve (and overthink).
 
 Check out my **live portfolio** [here](https://neiltagle.vercel.app/)!
 
@@ -26,19 +26,20 @@ Check out my **live portfolio** [here](https://neiltagle.vercel.app/)!
 
 ### Development
 
-[![Development](https://skillicons.dev/icons?i=vscode,git,github,vercel)](https://skillicons.dev)
+[![Development](https://skillicons.dev/icons?i=vscode,git,github,docker,vercel)](https://skillicons.dev)
 
 ## Principles
 
-- **RCSR Architecture**: Decoupling APIs into route, controller, service, and repository layers for scalability.
-
-- **Git Standards**: Strictly adhering to conventional commits.
-
-- **Clean Code**: Following DRY and SOLID principles.
+- **MVC/RCSR Architecture**: Decoupling APIs into layers
+- **Git Standards**: Conventional commits
+- **Clean Code**: DRY, SOLID, KISS
+- **Meticulous Programming**: Code quality > mental health
 
 ## Goals
-- [x] Build a portfolio to showcase my projects.
-- [x] Participate in **hackathons** to improve teamwork and thrive under pressure.
-- [ ] Launch a full-stack web application.
-- [ ] Upskill through targeted courses and industry-recognized certifications.
-- [ ] Secure internships to gain real-world experience.
+- [x] Build a portfolio to showcase my projects and experience
+- [x] Join hackathons to improve teamwork and thrive under pressure
+- [x] Upskill through targeted courses and industry-recognized certifications
+- [ ] Launch a full-stack web application
+- [ ] Secure internships to gain real-world experience
+- [ ] Meet people with similar goals
+- [ ] Good and complete sleep
