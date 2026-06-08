@@ -34,6 +34,7 @@ Check out my **live portfolio** [here](https://neiltagle.vercel.app/)!
 - **Git Standards**: Conventional commits
 - **Clean Code**: DRY, SOLID, KISS
 - **Meticulous Programming**: Code quality > mental health
+- If you're nothing without the suit, you shouldn't have it
 
 ## Goals
 - [x] Build a portfolio to showcase my projects and experience
